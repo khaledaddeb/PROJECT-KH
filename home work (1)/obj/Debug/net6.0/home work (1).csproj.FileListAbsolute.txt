@@ -1,0 +1,26 @@
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\appsettings.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).staticwebassets.runtime.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).exe
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).deps.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).runtimeconfig.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).dll
+C:\Users\tech\source\repos\home work (1)\home work (1)\bin\Debug\net6.0\home work (1).pdb
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).csproj.AssemblyReference.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).AssemblyInfoInputs.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).AssemblyInfo.cs
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).csproj.CoreCompileInputs.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).RazorAssemblyInfo.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).RazorAssemblyInfo.cs
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\scopedcss\bundle\home work (1).styles.css
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\scopedcss\projectbundle\home work (1).bundle.scp.css
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).dll
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\refint\home work (1).dll
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).pdb
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\home work (1).genruntimeconfig.cache
+C:\Users\tech\source\repos\home work (1)\home work (1)\obj\Debug\net6.0\ref\home work (1).dll

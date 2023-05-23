@@ -1,0 +1,12 @@
+﻿@model Number
+
+<form asp-action="calc">
+
+    <input type="text" asp-for=nOne>
+    <input type="text" asp-for=nTwo>
+    <input type="text" asp-for=operation>
+    <input type="submit" value="resalt" />
+
+    <h2>@ViewBag.resalt</h2>
+
+</form>
